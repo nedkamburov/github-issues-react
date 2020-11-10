@@ -1,5 +1,5 @@
 # Access issues from a GitHub Repository — React App
-The application accesses the GitHub API, retrieves the last issues from a repository and it displays them. Additionally, the comments to each issues could be viewed.
+The application accesses the GitHub API, retrieves the last issues from a repository and it displays them. Additionally, the comments to each issue could be viewed.
 
 ### Quick Start
 ##### `npm install`  
